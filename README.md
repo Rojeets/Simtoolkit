@@ -72,9 +72,11 @@ Follow these steps to set up the project locally:
 ## Security Considerations
 - **Passwords:** The system uses plain text for passwords. For production use, consider implementing password hashing (e.g., password_hash() and password_verify() in PHP).
 - **Database Credentials:** Ensure that database credentials are not exposed in publicly accessible files.
+  
 ## Troubleshooting
 - **Database Connection Issues:** Check your database credentials and socket path in connection.php.
 - **Page Not Loading:** Ensure that your web server and PHP are correctly configured and that the project files are in the correct directory.
+
 ##Contributing
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature-branch).
