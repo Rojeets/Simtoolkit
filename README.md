@@ -54,7 +54,7 @@ Follow these steps to set up the project locally:
 ## Usage
 1. **Access the Application:**
 
-  Open your web browser and navigate to the URL where the application is hosted (e.g., http://localhost/sim-toolkit/index.php).
+  Open your web browser and navigate to the URL where the application is hosted (e.g., http://localhost/Simtoolkit/index.php).
 
 2. **Login:**
 
