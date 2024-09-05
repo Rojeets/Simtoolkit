@@ -60,12 +60,15 @@ Follow these steps to set up the project locally:
 
   Enter your phone number and password to log in.
   If you don't have an account, register via the registration link.
+  
 3. **Manage Your Account:**
 
   After logging in, use the navigation menu to access different features like top-up, data services, and account info.
+  
 4. **Logout:**
 
   Click the logout link to end your session and return to the login page.
+  
 ## Security Considerations
 - **Passwords:** The system uses plain text for passwords. For production use, consider implementing password hashing (e.g., password_hash() and password_verify() in PHP).
 - **Database Credentials:** Ensure that database credentials are not exposed in publicly accessible files.
