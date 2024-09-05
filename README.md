@@ -77,7 +77,7 @@ Follow these steps to set up the project locally:
 - **Database Connection Issues:** Check your database credentials and socket path in connection.php.
 - **Page Not Loading:** Ensure that your web server and PHP are correctly configured and that the project files are in the correct directory.
 
-##Contributing
+## Contributing
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature-branch).
 3. Make your changes.
